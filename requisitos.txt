@@ -1,0 +1,5 @@
+Tema: livraria/biblioteca
+título: Livraria da quindim 
+seções: biografia e livros de exemplo
+cor: roxo escuro, branco e preto
+link externo: não vai ter.
